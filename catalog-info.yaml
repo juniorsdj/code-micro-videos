@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: code-micro-videos
+  annotations:
+    github.com/project-slug: juniorsdj/code-micro-videos
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
